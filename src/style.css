@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+#canvas {
+height: 150;
+width: 200;
+
+}
+body{
+    overflow: hidden;
+}
+h1 {color:green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    position: absolute;
+    bottom: 100px;
+
+}
+#player1 {
+    left: 35%;
+
+}
+#player2 {
+    right: 35%;
+}

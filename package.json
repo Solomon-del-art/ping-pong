@@ -1,0 +1,33 @@
+{
+  "name": "ping-pong",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.0"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "fdir": "^6.5.0",
+    "detect-libc": "^2.1.2",
+    "lightningcss-linux-x64-musl": "^1.32.0",
+    "lightningcss-linux-x64-gnu": "^1.32.0",
+    "picomatch": "^4.0.3",
+    "lightningcss": "^1.32.0",
+    "picocolors": "^1.1.1",
+    "rolldown": "^1.0.0-rc.9",
+    "tinyglobby": "^0.2.15",
+    "nanoid": "^3.3.11",
+    "source-map-js": "^1.2.1",
+    "postcss": "^8.5.8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
